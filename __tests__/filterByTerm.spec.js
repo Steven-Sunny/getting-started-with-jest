@@ -27,4 +27,5 @@ function filterByTerm(inputArr, searchTerm) {
       return arrayElement.url.match(regex);
     });
     //Test comment 1
+    //Test comment 2
 }
