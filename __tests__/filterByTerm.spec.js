@@ -26,4 +26,5 @@ function filterByTerm(inputArr, searchTerm) {
     return inputArr.filter(function(arrayElement) {
       return arrayElement.url.match(regex);
     });
+    //Test comment 1
 }
